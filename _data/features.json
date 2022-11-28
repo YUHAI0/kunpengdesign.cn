@@ -1,7 +1,7 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "免费咨询",
+    "description": "新客户可获取有效的免费咨询服务",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "分期付款",
+    "description": "通过有效的金融方案让客户可分期付项目款",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "24小时服务",
+    "description": "我们提供全天服务",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,

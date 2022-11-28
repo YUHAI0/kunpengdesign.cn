@@ -1,5 +1,5 @@
 ---
-title: Team
+title: 团队
 layout: teams
 description: Team
 permalink: "/team/"
@@ -7,6 +7,7 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Meet The Team
+# 团队初心
 
-Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
+我们是一群有梦想有理想，热爱自由与代码的人。
+

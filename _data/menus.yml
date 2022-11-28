@@ -1,4 +1,7 @@
 main:
+  - name: "主页"
+    url: "/"
+    weight: 1
   - name: "服务"
     url: "/services/"
     weight: 2
@@ -13,8 +16,8 @@ main:
     weight: 5
 
 footer:
-  - name: "主页"
-    url: "/"
+  - name: "服务"
+    url: "/services/"
     weight: 1
   - name: "联系方式"
     url: "/contact/"
